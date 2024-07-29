@@ -144,9 +144,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/MhaamadAli",
   },
   {
     id: 2,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/mohammad-ali-alaawar/",
+  },
+  {
+    id: 3,
+    img: "/meet.svg",
+    link: "https://calendar.app.google/EvjLAWLWZ2Spwuns6",
   },
 ];
