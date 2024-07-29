@@ -97,16 +97,10 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Marilynn Haber",
-    title: "Google DSC Lebanon Fascilitator",
+      "Mohammad has been an exceptional Google Developer Students Clubs Lead in Lebanon. His impactful work within the chapter and the community has been commendable. He demonstrated excellent collaboration skills, organizing events and enhancing our initiatives. I am proud of his dedication and contributions!",
+    name: "Marilyn Haber",
+    title: "Google DSC Lebanon Facilitator",
   },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  }
 ];
 
 export const workExperience = [
